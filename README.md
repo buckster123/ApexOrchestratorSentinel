@@ -1,4 +1,3 @@
-```markdown
 # ApexSentinel
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/buckster123/ApexSentinel?style=social)](https://github.com/buckster123/ApexSentinel)
@@ -331,4 +330,3 @@ log "Deactivate: deactivate"
 log "Hardware: Wire LEDs to GPIO 18 (green)/19 (red), GND 6. Enable cam in raspi-config."
 
 echo "=== Install finished. Check ${LOGFILE} for details. ==="
-```
