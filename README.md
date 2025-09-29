@@ -10,7 +10,7 @@
 > ApexSentinel evolves ApexOrchestrator into a hardware-empowered guardian. On a Raspberry Pi 5, it snaps door cam frames, analyzes threats with Grok Vision, blinks alert LEDs via GPIO, and debates actions via Socratic councils. Low-cost edge AI: "Apex, who's at the door?" → Snap, scan, secure. Just add a $10 cam/LEDs and an xAI key.
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/003300/00ff00?text=ApexSentinel:+Guardian+AI+on+Your+Pi" alt="Hero Banner">
+  <img src="https://github.com/buckster123/ApexOrchestratorSentinel/blob/main/banner.jpg" alt="Hero Banner">
 </div>
 
 ## 🚀 Why ApexSentinel?  
